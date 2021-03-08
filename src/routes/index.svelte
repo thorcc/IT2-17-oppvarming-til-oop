@@ -15,6 +15,9 @@
 	<li>
 		<a href="https://www.youtube.com/watch?v=DbcLg8nRWEg&list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X">
 			Youtube: Working with Data and APIs in Javascript
+		</a>		
+		<a href="https://www.youtube.com/watch?v=7rU_KyudGBY">
+			Youtube: Code a Discord Bot with JavaScript
 		</a>
 	</li>
 </ul>
